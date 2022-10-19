@@ -1,0 +1,20 @@
+.footer {
+  width: 100%;
+  min-height: 363px;
+  background-color: #000;
+  padding-block: 30px;
+}
+
+.loader {
+  width: 70%;
+  height: 8px;
+  background: linear-gradient(
+    94.41deg,
+    #fa6c58 8.77%,
+    #fa9158 99.95%,
+    #fa9258 99.96%,
+    #fa9258 99.97%,
+    rgba(250, 108, 88, 0) 99.98%,
+    #fa6c58 99.99%
+  );
+}
